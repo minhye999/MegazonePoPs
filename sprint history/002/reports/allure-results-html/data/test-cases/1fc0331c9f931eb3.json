@@ -1,0 +1,236 @@
+{
+  "uid" : "1fc0331c9f931eb3",
+  "name" : "그룹 상세 페이지에서 사용자의 [이름]을 확인한다",
+  "historyId" : "dff1946a2d8ef4e9bb6d1055a4df2a66",
+  "time" : {
+    "start" : 1606231994193,
+    "stop" : 1606232002377,
+    "duration" : 8184
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Chrome 브라우저를 실행한다",
+      "time" : {
+        "start" : 1606231994194,
+        "stop" : 1606231999588,
+        "duration" : 5394
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 어드민 페이지로 이동한다",
+      "time" : {
+        "start" : 1606231999588,
+        "stop" : 1606232000114,
+        "duration" : 526
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 이메일을 입력한다",
+      "time" : {
+        "start" : 1606232000115,
+        "stop" : 1606232000299,
+        "duration" : 184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 비밀번호를 입력한다",
+      "time" : {
+        "start" : 1606232000299,
+        "stop" : 1606232000462,
+        "duration" : 163
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 로그인 페이지에서 [로그인]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606232000463,
+        "stop" : 1606232000558,
+        "duration" : 95
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And LNB에서 하위메뉴 [그룹]을 클릭한다",
+      "time" : {
+        "start" : 1606232000558,
+        "stop" : 1606232001669,
+        "duration" : 1111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When 그룹 목록 페이지에서 검색 입력필드에 [그룹1의 이름]을 전체 입력한다",
+      "time" : {
+        "start" : 1606232001669,
+        "stop" : 1606232001924,
+        "duration" : 255
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 목록 페이지에서 [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606232001924,
+        "stop" : 1606232001960,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 목록 페이지에서 그룹 행을 클릭한다",
+      "time" : {
+        "start" : 1606232001960,
+        "stop" : 1606232002050,
+        "duration" : 90
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 상세 페이지에서 검색 입력필드에 [사용자1의 아이디]를 전체 입력한다",
+      "time" : {
+        "start" : 1606232002050,
+        "stop" : 1606232002328,
+        "duration" : 278
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 상세 페이지에서 검색 입력필드에 [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606232002328,
+        "stop" : 1606232002364,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then 그룹 상세 페이지에서 [사용자1의 이름]이 출력된다",
+      "time" : {
+        "start" : 1606232002364,
+        "stop" : 1606232002377,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 12
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "시나리오"
+  }, {
+    "name" : "feature",
+    "value" : "그룹"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "시나리오" ]
+  },
+  "source" : "1fc0331c9f931eb3.json",
+  "parameterValues" : [ ]
+}

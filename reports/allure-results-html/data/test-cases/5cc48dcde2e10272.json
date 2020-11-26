@@ -1,0 +1,206 @@
+{
+  "uid" : "5cc48dcde2e10272",
+  "name" : "사용자 상세 페이지에서 사용자의 [아이디]를 확인한다",
+  "historyId" : "1795bef640069911e65f9dce7676816c",
+  "time" : {
+    "start" : 1606229542944,
+    "stop" : 1606229551466,
+    "duration" : 8522
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Chrome 브라우저를 실행한다",
+      "time" : {
+        "start" : 1606229542945,
+        "stop" : 1606229548344,
+        "duration" : 5399
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 어드민 페이지로 이동한다",
+      "time" : {
+        "start" : 1606229548344,
+        "stop" : 1606229548904,
+        "duration" : 560
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 이메일을 입력한다",
+      "time" : {
+        "start" : 1606229548905,
+        "stop" : 1606229549107,
+        "duration" : 202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 비밀번호를 입력한다",
+      "time" : {
+        "start" : 1606229549108,
+        "stop" : 1606229549260,
+        "duration" : 152
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 로그인 페이지에서 [로그인]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606229549260,
+        "stop" : 1606229549335,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When 사용자 목록 페이지에서 [검색] 입력필드를 클릭한다",
+      "time" : {
+        "start" : 1606229549336,
+        "stop" : 1606229550418,
+        "duration" : 1082
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 목록 페이지에서 검색입력필드에 [사용자1의 아이디]를 전체 입력한다",
+      "time" : {
+        "start" : 1606229550419,
+        "stop" : 1606229551116,
+        "duration" : 697
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606229551116,
+        "stop" : 1606229551151,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 목록 페이지에서 사용자 행을 클릭한다",
+      "time" : {
+        "start" : 1606229551151,
+        "stop" : 1606229551295,
+        "duration" : 144
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then 사용자 상세 페이지에서 [사용자1의 아이디]가 출력된다",
+      "time" : {
+        "start" : 1606229551296,
+        "stop" : 1606229551466,
+        "duration" : 170
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "시나리오(사용자1-아이디)"
+  }, {
+    "name" : "feature",
+    "value" : "사용자"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "시나리오(사용자1-아이디)" ]
+  },
+  "source" : "5cc48dcde2e10272.json",
+  "parameterValues" : [ ]
+}

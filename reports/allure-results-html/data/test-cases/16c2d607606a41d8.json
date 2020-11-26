@@ -1,0 +1,281 @@
+{
+  "uid" : "16c2d607606a41d8",
+  "name" : "[사용자 삭제]팝업의 [출력요소]를 확인한다",
+  "historyId" : "a085fe6248863173e6c3a52680456a40",
+  "time" : {
+    "start" : 1606229053382,
+    "stop" : 1606229062917,
+    "duration" : 9535
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Chrome 브라우저를 실행한다",
+      "time" : {
+        "start" : 1606229053383,
+        "stop" : 1606229058744,
+        "duration" : 5361
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 어드민 페이지로 이동한다",
+      "time" : {
+        "start" : 1606229058744,
+        "stop" : 1606229059445,
+        "duration" : 701
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 이메일을 입력한다",
+      "time" : {
+        "start" : 1606229059446,
+        "stop" : 1606229059687,
+        "duration" : 241
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 비밀번호를 입력한다",
+      "time" : {
+        "start" : 1606229059687,
+        "stop" : 1606229059933,
+        "duration" : 246
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 로그인 페이지에서 [로그인]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606229059934,
+        "stop" : 1606229060064,
+        "duration" : 130
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When 사용자 목록 페이지에서 [검색] 입력필드를 클릭한다",
+      "time" : {
+        "start" : 1606229060064,
+        "stop" : 1606229061266,
+        "duration" : 1202
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 목록 페이지에서 검색입력필드에 [사용자1의 아이디]를 전체 입력한다",
+      "time" : {
+        "start" : 1606229061266,
+        "stop" : 1606229062219,
+        "duration" : 953
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606229062219,
+        "stop" : 1606229062270,
+        "duration" : 51
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 목록 페이지에서 사용자 행을 클릭한다",
+      "time" : {
+        "start" : 1606229062271,
+        "stop" : 1606229062451,
+        "duration" : 180
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 상세 페이지에서 [더보기]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606229062452,
+        "stop" : 1606229062737,
+        "duration" : 285
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 상세 페이지에서 [사용자 삭제]메뉴를 클릭한다",
+      "time" : {
+        "start" : 1606229062738,
+        "stop" : 1606229062853,
+        "duration" : 115
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then [사용자 삭제]팝업에서 [사용자1의 이름]이 출력된다",
+      "time" : {
+        "start" : 1606229062854,
+        "stop" : 1606229062870,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [사용자 삭제]팝업에서 [사용자1의 아이디]가 출력된다",
+      "time" : {
+        "start" : 1606229062871,
+        "stop" : 1606229062888,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [사용자 삭제]팝업에서 [취소]버튼이 출력된다",
+      "time" : {
+        "start" : 1606229062889,
+        "stop" : 1606229062903,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [사용자 삭제]팝업에서 [삭제]버튼이 출력된다",
+      "time" : {
+        "start" : 1606229062904,
+        "stop" : 1606229062917,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 15
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "시나리오(사용자1-사용자삭제)"
+  }, {
+    "name" : "feature",
+    "value" : "사용자"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "시나리오(사용자1-사용자삭제)" ]
+  },
+  "source" : "16c2d607606a41d8.json",
+  "parameterValues" : [ ]
+}

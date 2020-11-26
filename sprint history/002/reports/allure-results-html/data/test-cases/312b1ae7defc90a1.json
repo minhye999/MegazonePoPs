@@ -1,0 +1,161 @@
+{
+  "uid" : "312b1ae7defc90a1",
+  "name" : "사용자 목록 페이지에서 [사용자 추가]팝업을 취소한다",
+  "historyId" : "ab5d703ac4962a941b52bdb7c1f8c31a",
+  "time" : {
+    "start" : 1606220847720,
+    "stop" : 1606220855928,
+    "duration" : 8208
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Chrome 브라우저를 실행한다",
+      "time" : {
+        "start" : 1606220847721,
+        "stop" : 1606220853171,
+        "duration" : 5450
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 어드민 페이지로 이동한다",
+      "time" : {
+        "start" : 1606220853171,
+        "stop" : 1606220853764,
+        "duration" : 593
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 이메일을 입력한다",
+      "time" : {
+        "start" : 1606220853765,
+        "stop" : 1606220854006,
+        "duration" : 241
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 비밀번호를 입력한다",
+      "time" : {
+        "start" : 1606220854007,
+        "stop" : 1606220854194,
+        "duration" : 187
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 로그인 페이지에서 [로그인]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606220854194,
+        "stop" : 1606220854282,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When 사용자 목록 페이지에서 [사용자 추가]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606220854282,
+        "stop" : 1606220855660,
+        "duration" : 1378
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [사용자 추가]팝업에서 [취소]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606220855660,
+        "stop" : 1606220855928,
+        "duration" : 268
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 7
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "시나리오"
+  }, {
+    "name" : "feature",
+    "value" : "사용자"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "시나리오" ]
+  },
+  "source" : "312b1ae7defc90a1.json",
+  "parameterValues" : [ ]
+}

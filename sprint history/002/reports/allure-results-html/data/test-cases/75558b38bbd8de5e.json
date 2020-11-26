@@ -1,0 +1,206 @@
+{
+  "uid" : "75558b38bbd8de5e",
+  "name" : "사용자 상세 페이지에서 [2단계 설정 필요없고, 활성 상태인 사용자]의 [상태]를 확인한다",
+  "historyId" : "5dacf0b9796be64b424b2cf7f19f4d89",
+  "time" : {
+    "start" : 1606229387160,
+    "stop" : 1606229396940,
+    "duration" : 9780
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Chrome 브라우저를 실행한다",
+      "time" : {
+        "start" : 1606229387162,
+        "stop" : 1606229392608,
+        "duration" : 5446
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 어드민 페이지로 이동한다",
+      "time" : {
+        "start" : 1606229392608,
+        "stop" : 1606229393295,
+        "duration" : 687
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 이메일을 입력한다",
+      "time" : {
+        "start" : 1606229393296,
+        "stop" : 1606229393567,
+        "duration" : 271
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 비밀번호를 입력한다",
+      "time" : {
+        "start" : 1606229393567,
+        "stop" : 1606229393786,
+        "duration" : 219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 로그인 페이지에서 [로그인]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606229393786,
+        "stop" : 1606229393899,
+        "duration" : 113
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When 사용자 목록 페이지에서 [검색] 입력필드를 클릭한다",
+      "time" : {
+        "start" : 1606229393900,
+        "stop" : 1606229395670,
+        "duration" : 1770
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 목록 페이지에서 검색입력필드에 [사용자5의 아이디]를 전체 입력한다",
+      "time" : {
+        "start" : 1606229395670,
+        "stop" : 1606229396550,
+        "duration" : 880
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606229396551,
+        "stop" : 1606229396592,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 사용자 목록 페이지에서 사용자 행을 클릭한다",
+      "time" : {
+        "start" : 1606229396592,
+        "stop" : 1606229396758,
+        "duration" : 166
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then 사용자 상세 페이지에서 사용자의 상태가 [활성]으로 출력된다",
+      "time" : {
+        "start" : 1606229396759,
+        "stop" : 1606229396940,
+        "duration" : 181
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 10
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "시나리오(사용자5-활성상태)"
+  }, {
+    "name" : "feature",
+    "value" : "사용자"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "시나리오(사용자5-활성상태)" ]
+  },
+  "source" : "75558b38bbd8de5e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "1078c69337dfb6bfb49758c310823b00",
+    "name" : "사용자",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 112,
+      "unknown" : 0,
+      "total" : 112
+    }
+  }, {
+    "uid" : "4366d6e494bc9bb8384dd39fc5d0cb21",
+    "name" : "그룹",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 66,
+      "unknown" : 0,
+      "total" : 66
+    }
+  } ]
+}

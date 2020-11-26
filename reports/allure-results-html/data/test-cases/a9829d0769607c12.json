@@ -1,0 +1,242 @@
+{
+  "uid" : "a9829d0769607c12",
+  "name" : "그룹 상세 페이지에서 [대기] 상태인 사용자의 [상태]를 확인한다",
+  "historyId" : "195c633e97a06e39e60fbc8516b337db",
+  "time" : {
+    "start" : 1606232026144,
+    "stop" : 1606232044935,
+    "duration" : 18791
+  },
+  "status" : "passed",
+  "statusMessage" : "NotImplementedError: STEP: Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다\n",
+  "statusTrace" : "  File \"f:\\pycharm\\project\\megazonepops\\venv\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"f:\\pycharm\\project\\megazonepops\\venv\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\adminGroups.py\", line 1246, in step_impl\n    raise NotImplementedError(u'STEP: Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다')\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "statusMessage" : "NotImplementedError: STEP: Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다\n",
+    "statusTrace" : "  File \"f:\\pycharm\\project\\megazonepops\\venv\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"f:\\pycharm\\project\\megazonepops\\venv\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\adminGroups.py\", line 1246, in step_impl\n    raise NotImplementedError(u'STEP: Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다')\n",
+    "steps" : [ {
+      "name" : "Given Chrome 브라우저를 실행한다",
+      "time" : {
+        "start" : 1606232026149,
+        "stop" : 1606232031566,
+        "duration" : 5417
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 어드민 페이지로 이동한다",
+      "time" : {
+        "start" : 1606232031567,
+        "stop" : 1606232032317,
+        "duration" : 750
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 이메일을 입력한다",
+      "time" : {
+        "start" : 1606232032318,
+        "stop" : 1606232032547,
+        "duration" : 229
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 2단계 인증 필요없는 계정의 비밀번호를 입력한다",
+      "time" : {
+        "start" : 1606232032547,
+        "stop" : 1606232032707,
+        "duration" : 160
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 메가존 로그인 페이지에서 [로그인]버튼을 클릭한다",
+      "time" : {
+        "start" : 1606232032707,
+        "stop" : 1606232032792,
+        "duration" : 85
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And LNB에서 하위메뉴 [그룹]을 클릭한다",
+      "time" : {
+        "start" : 1606232032793,
+        "stop" : 1606232034182,
+        "duration" : 1389
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When 그룹 목록 페이지에서 검색 입력필드에 [그룹1의 이름]을 전체 입력한다",
+      "time" : {
+        "start" : 1606232034182,
+        "stop" : 1606232034455,
+        "duration" : 273
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 목록 페이지에서 [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606232034455,
+        "stop" : 1606232034495,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 목록 페이지에서 그룹 행을 클릭한다",
+      "time" : {
+        "start" : 1606232034495,
+        "stop" : 1606232034584,
+        "duration" : 89
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 상세 페이지에서 검색 입력필드에 [사용자1의 아이디]를 전체 입력한다",
+      "time" : {
+        "start" : 1606232034585,
+        "stop" : 1606232034859,
+        "duration" : 274
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "And 그룹 상세 페이지에서 검색 입력필드에 [엔터키]를 입력한다",
+      "time" : {
+        "start" : 1606232034859,
+        "stop" : 1606232034898,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다",
+      "time" : {
+        "start" : 1606232034898,
+        "stop" : 1606232044934,
+        "duration" : 10036
+      },
+      "status" : "unknown",
+      "statusMessage" : "NotImplementedError: STEP: Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다\n",
+      "statusTrace" : "  File \"f:\\pycharm\\project\\megazonepops\\venv\\lib\\site-packages\\behave\\model.py\", line 1329, in run\n    match.run(runner.context)\n  File \"f:\\pycharm\\project\\megazonepops\\venv\\lib\\site-packages\\behave\\matchers.py\", line 98, in run\n    self.func(context, *args, **kwargs)\n  File \"features\\steps\\adminGroups.py\", line 1246, in step_impl\n    raise NotImplementedError(u'STEP: Then 그룹 상세 페이지에서 사용자 목록의 사용자의 상태가 [대기]로 출력된다')\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 12
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "시나리오(사용자1-대기)"
+  }, {
+    "name" : "feature",
+    "value" : "그룹"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "시나리오(사용자1-대기)" ]
+  },
+  "source" : "a9829d0769607c12.json",
+  "parameterValues" : [ ]
+}

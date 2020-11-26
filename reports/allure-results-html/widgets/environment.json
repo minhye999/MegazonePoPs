@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "3.8" ],
+  "name" : "python.Version"
+}, {
+  "values" : [ "0.87" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "1.2.6" ],
+  "name" : "behave.Version"
+}, {
+  "values" : [ "2.13.5" ],
+  "name" : "allure.Version"
+}, {
+  "values" : [ "Chrome" ],
+  "name" : "Browser"
+} ]

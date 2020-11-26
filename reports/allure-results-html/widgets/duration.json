@@ -1,0 +1,1781 @@
+[ {
+  "uid" : "32d42196adb19037",
+  "name" : "사용자 상세 페이지에서 [전화번호]를 변경하고 [저장]한다",
+  "time" : {
+    "start" : 1606229619641,
+    "stop" : 1606229632013,
+    "duration" : 12372
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ed8443d867ca475",
+  "name" : "[사용자 추가]팝업에서 아이디를 입력하지 않고 사용자 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220764812,
+    "stop" : 1606220772871,
+    "duration" : 8059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c30c757cb2addcc",
+  "name" : "사용자 페이지에서 사용자 목록을 확인한다",
+  "time" : {
+    "start" : 1606221063824,
+    "stop" : 1606221071486,
+    "duration" : 7662
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16c2d607606a41d8",
+  "name" : "[사용자 삭제]팝업의 [출력요소]를 확인한다",
+  "time" : {
+    "start" : 1606229053382,
+    "stop" : 1606229062917,
+    "duration" : 9535
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "827fa80bf6413c6b",
+  "name" : "[그룹 사용자 삭제]팝업에서 사용자 삭제를 [취소]한다",
+  "time" : {
+    "start" : 1606232122458,
+    "stop" : 1606232140668,
+    "duration" : 18210
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ea447f9d69482ff",
+  "name" : "사용자 목록 페이지에서 [MFA 인증하고, 활성화 상태인 사용자]의 [더보기]메뉴를 확인한다",
+  "time" : {
+    "start" : 1606221233899,
+    "stop" : 1606221248485,
+    "duration" : 14586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb5a98c1ab7472c1",
+  "name" : "[그룹 사용자 추가]팝업에서 검색한 사용자를 [체크]한다",
+  "time" : {
+    "start" : 1606231862323,
+    "stop" : 1606231872206,
+    "duration" : 9883
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a39e3a34f01e3d7",
+  "name" : "사용자 상세 페이지에서 [MFA 인증하고, 활성화 상태인 사용자]의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229154461,
+    "stop" : 1606229163075,
+    "duration" : 8614
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1f583f6dbb711d8",
+  "name" : "[그룹 사용자 삭제]팝업의 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606232103387,
+    "stop" : 1606232122457,
+    "duration" : 19070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "162743ef18edc020",
+  "name" : "사용자 목록 페이지에서 프로필 이미지를 미등록한 사용자의 [프로필 이미지]를 확인한다",
+  "time" : {
+    "start" : 1606221102248,
+    "stop" : 1606221110148,
+    "duration" : 7900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2b48730efffff94",
+  "name" : "[그룹 사용자 추가]팝업에서 [유효하지 않은 텍스트]를 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231756365,
+    "stop" : 1606231767331,
+    "duration" : 10966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "150b9eb3d83a0aea",
+  "name" : "사용자 상세 페이지에서 2단계 인증을 해제하고 해당 사용자로 로그인한다",
+  "time" : {
+    "start" : 1606229196779,
+    "stop" : 1606229220491,
+    "duration" : 23712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1eb5cc594e8148e",
+  "name" : "[사용자 추가]팝업에서 모든 값을 입력하고 사용자4 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220836209,
+    "stop" : 1606220847718,
+    "duration" : 11509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f075be6e158f65f0",
+  "name" : "그룹 목록 페이지에서 [그룹 추가]팝업을 취소한다",
+  "time" : {
+    "start" : 1606222928044,
+    "stop" : 1606222936026,
+    "duration" : 7982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc67b48fb78d3713",
+  "name" : "그룹 목록 페이지에서 설명이 없는 그룹의 [설명]을 확인한다",
+  "time" : {
+    "start" : 1606223197400,
+    "stop" : 1606223215529,
+    "duration" : 18129
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b92ecb32ab2b08ea",
+  "name" : "사용자 상세 페이지에서 [대기] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606229378371,
+    "stop" : 1606229387157,
+    "duration" : 8786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57bd3c87116ca794",
+  "name" : "[계정활성화 메일 재전송]팝업의 [출력요소]를 확인한다",
+  "time" : {
+    "start" : 1606229109679,
+    "stop" : 1606229119233,
+    "duration" : 9554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9c883db875543ef",
+  "name" : "[계정활성화 메일 재전송]팝업에서 계정활성화 메일 [재전송]을 한다",
+  "time" : {
+    "start" : 1606229128691,
+    "stop" : 1606229138334,
+    "duration" : 9643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab0b56c2b584fc56",
+  "name" : "그룹 상세 페이지에서 [아이디]를 전체 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231710122,
+    "stop" : 1606231723953,
+    "duration" : 13831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e59b85840d9608c6",
+  "name" : "사용자 상세 페이지에서 [성]을 입력하지 않고 [저장]을 시도한다",
+  "time" : {
+    "start" : 1606229460315,
+    "stop" : 1606229469456,
+    "duration" : 9141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45af83e3054249c",
+  "name" : "생성한 그룹 상세 페이지에서 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606231495644,
+    "stop" : 1606231504118,
+    "duration" : 8474
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "449efbefd6598626",
+  "name" : "생성한 그룹 상세 페이지에서 기본 그룹의 [설명]을 확인한다",
+  "time" : {
+    "start" : 1606231623307,
+    "stop" : 1606231633867,
+    "duration" : 10560
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43be6b00954bc744",
+  "name" : "그룹 상세 페이지에서 프로필 이미지를 미등록한 사용자의 [프로필 이미지]를 확인한다",
+  "time" : {
+    "start" : 1606231963857,
+    "stop" : 1606231984795,
+    "duration" : 20938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b1b7facc5bd7d0e",
+  "name" : "생성한 그룹 상세 페이지에서 [더보기] 버튼을 확인한다",
+  "time" : {
+    "start" : 1606231527417,
+    "stop" : 1606231535394,
+    "duration" : 7977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c95cfe22bc70d7e7",
+  "name" : "[그룹 추가]팝업에서 [그룹 이름]을 입력하지 않고 그룹 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606222882521,
+    "stop" : 1606222892619,
+    "duration" : 10098
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d516cb883a5da79",
+  "name" : "사용자 목록 페이지에서 [마지막] 페이지로 이동한다",
+  "time" : {
+    "start" : 1606221382246,
+    "stop" : 1606221389935,
+    "duration" : 7689
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e07c92c5d57ac177",
+  "name" : "생성한 그룹 상세 페이지에서 [그룹 사용자 추가]버튼이 출력된다",
+  "time" : {
+    "start" : 1606231723956,
+    "stop" : 1606231733466,
+    "duration" : 9510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cae8b6d5e3d2c543",
+  "name" : "사용자 목록 페이지에서 계정활성화 메일 재전송을 취소한다",
+  "time" : {
+    "start" : 1606221279443,
+    "stop" : 1606221289113,
+    "duration" : 9670
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ef4275a19ce5edb",
+  "name" : "[사용자 추가]팝업에서 전화번호를 입력하지 않고 사용자3 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220821461,
+    "stop" : 1606220836207,
+    "duration" : 14746
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13d782776ae652a2",
+  "name" : "사용자 상세 페이지에서 [2단계 인증 해제 팝업]으로 이동한다",
+  "time" : {
+    "start" : 1606229163077,
+    "stop" : 1606229172717,
+    "duration" : 9640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10d84c92d864b116",
+  "name" : "사용자 상세 페이지에서 [부서]를 입력하지 않고 [저장]을 시도한다",
+  "time" : {
+    "start" : 1606229561415,
+    "stop" : 1606229571493,
+    "duration" : 10078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b65c1624e5118457",
+  "name" : "[그룹 사용자 추가]팝업에서 [아이디]를 부분 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231804946,
+    "stop" : 1606231814817,
+    "duration" : 9871
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ec67d6147072171",
+  "name" : "사용자 목록 페이지에서 [유효하지 않은 텍스트]를 입력하고 [검색]한다",
+  "time" : {
+    "start" : 1606221071487,
+    "stop" : 1606221079975,
+    "duration" : 8488
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b6e7e4d999a5aca",
+  "name" : "사용자 목록 페이지에서 계정활성화 메일 재전송 팝업으로 이동한다",
+  "time" : {
+    "start" : 1606221248487,
+    "stop" : 1606221257728,
+    "duration" : 9241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74cedaef44f58642",
+  "name" : "사용자 목록 페이지에서 페이징을 확인한다",
+  "time" : {
+    "start" : 1606221343964,
+    "stop" : 1606221351668,
+    "duration" : 7704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c972f85f62c5a18",
+  "name" : "사용자 상세 페이지에서 변경한 [부서]가 반영되었는지 화면을 새로고침하여 확인한다",
+  "time" : {
+    "start" : 1606229577777,
+    "stop" : 1606229587526,
+    "duration" : 9749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "300f5ae24c5afc58",
+  "name" : "사용자 목록 페이지에서 [MFA 인증하고, 활성화 상태인 사용자]의 2단계 인증 해제를 [취소]한다",
+  "time" : {
+    "start" : 1606221311360,
+    "stop" : 1606221319994,
+    "duration" : 8634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78597bac87cba843",
+  "name" : "사용자 상세 페이지에서 [기본 그룹]을 확인한다",
+  "time" : {
+    "start" : 1606229648517,
+    "stop" : 1606229658898,
+    "duration" : 10381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da75d7cd021fa1a",
+  "name" : "기본그룹 상세 페이지에서 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606231486796,
+    "stop" : 1606231495577,
+    "duration" : 8781
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c38fc0e310aabe89",
+  "name" : "사용자 상세 페이지에서 [프로필 이미지를 미등록한 사용자]의 [프로필 이미지]를 확인한다",
+  "time" : {
+    "start" : 1606229251450,
+    "stop" : 1606229270310,
+    "duration" : 18860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac1b0b569d13d5da",
+  "name" : "[그룹 추가]팝업에서 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606222874707,
+    "stop" : 1606222882519,
+    "duration" : 7812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d0c918861745aaf",
+  "name" : "[사용자 추가]팝업에서 프로필 이미지에 [유효하지 않은 크기의 이미지]를 업로드 시도한다",
+  "time" : {
+    "start" : 1606220700286,
+    "stop" : 1606220708745,
+    "duration" : 8459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2de8757c5c4643a",
+  "name" : "사용자 상세 페이지에서 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606228998352,
+    "stop" : 1606229016773,
+    "duration" : 18421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bcdab7cccef9ad0",
+  "name" : "사용자 상세 페이지에서 [2단계 설정 필요없고, 활성화 상태인 사용자]의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229367361,
+    "stop" : 1606229378369,
+    "duration" : 11008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "392d6e8b5cc8b0f1",
+  "name" : "메가존 어드민 페이지에서 사용자 페이지로 이동한다",
+  "time" : {
+    "start" : 1606220561437,
+    "stop" : 1606220571164,
+    "duration" : 9727
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77c80d3b4074a5d0",
+  "name" : "[그룹 사용자 추가]팝업에서 그룹 사용자 추가를 [취소]한다",
+  "time" : {
+    "start" : 1606231918251,
+    "stop" : 1606231930680,
+    "duration" : 12429
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62754fc2a5490b23",
+  "name" : "그룹 상세 페이지에서 [Breadcrumb]을 확인한다",
+  "time" : {
+    "start" : 1606231504120,
+    "stop" : 1606231513068,
+    "duration" : 8948
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7dc16b95538d544",
+  "name" : "[사용자 추가]팝업에서 프로필 이미지를 업로드하고 [변경]한다",
+  "time" : {
+    "start" : 1606220717428,
+    "stop" : 1606220726357,
+    "duration" : 8929
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75558b38bbd8de5e",
+  "name" : "사용자 상세 페이지에서 [2단계 설정 필요없고, 활성 상태인 사용자]의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606229387160,
+    "stop" : 1606229396940,
+    "duration" : 9780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35e6cbf953b10a7",
+  "name" : "그룹 상세 페이지에서 사용자의 [아이디]를 확인한다",
+  "time" : {
+    "start" : 1606232002379,
+    "stop" : 1606232026042,
+    "duration" : 23663
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80f00023428321b9",
+  "name" : "사용자 상세 페이지에서 2단계 인증 해제를 취소한다",
+  "time" : {
+    "start" : 1606229187846,
+    "stop" : 1606229196777,
+    "duration" : 8931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81f5dc19f8337ee5",
+  "name" : "[그룹 사용자 추가]팝업에서 사용자를 [추가]한다",
+  "time" : {
+    "start" : 1606231941293,
+    "stop" : 1606231963749,
+    "duration" : 22456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6eae76dd16dbea9a",
+  "name" : "사용자 상세 페이지에서 [프로필 이미지]에 [유효하지 않은 크기의 파일]을 [업로드] 시도한다",
+  "time" : {
+    "start" : 1606229290350,
+    "stop" : 1606229300983,
+    "duration" : 10633
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "338b9126966375e3",
+  "name" : "[그룹 사용자 추가]팝업에서 사용자를 추가하지 않고 그룹 사용자 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606231930684,
+    "stop" : 1606231941290,
+    "duration" : 10606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39ce27a7c3d3445",
+  "name" : "사용자 상세 페이지에서 [프로필 이미지를 등록한 사용자]의 [프로필 이미지]를 확인한다",
+  "time" : {
+    "start" : 1606229270312,
+    "stop" : 1606229279098,
+    "duration" : 8786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68637921732bbdb0",
+  "name" : "사용자 목록 페이지에서 [처음] 페이지로 이동한다",
+  "time" : {
+    "start" : 1606221374331,
+    "stop" : 1606221382244,
+    "duration" : 7913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7196ef149eb3b9eb",
+  "name" : "[사용자 추가]팝업에서 필수값만 입력하고 사용자1 [추가]한다",
+  "time" : {
+    "start" : 1606220780934,
+    "stop" : 1606220791813,
+    "duration" : 10879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f119bd43546384e7",
+  "name" : "사용자 목록 페이지에서 [로그인 이력없는 사용자]의 [최근 로그인 날짜]를 확인한다",
+  "time" : {
+    "start" : 1606221142298,
+    "stop" : 1606221151594,
+    "duration" : 9296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3731f0c59797473",
+  "name" : "사용자 상세 페이지에서 [프로필 이미지]에 [유효하지 않은 확장자의 파일]을 [업로드] 시도한다",
+  "time" : {
+    "start" : 1606229279101,
+    "stop" : 1606229290348,
+    "duration" : 11247
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bc653b7149796e6",
+  "name" : "사용자 목록 페이지에서 [다음] 페이지로 이동한다",
+  "time" : {
+    "start" : 1606221359384,
+    "stop" : 1606221368027,
+    "duration" : 8643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "934af40697617d98",
+  "name" : "[그룹 사용자 추가]팝업에서 선택한 사용자를 [체크 해제]한다",
+  "time" : {
+    "start" : 1606231897294,
+    "stop" : 1606231906624,
+    "duration" : 9330
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aabaf5d1608d32b",
+  "name" : "생성한 그룹 상세 페이지에서 그룹의 [이름]을 확인한다",
+  "time" : {
+    "start" : 1606231545228,
+    "stop" : 1606231554603,
+    "duration" : 9375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0d97370d5245f83",
+  "name" : "사용자 목록 페이지에서 [이전] 페이지로 이동한다",
+  "time" : {
+    "start" : 1606221351669,
+    "stop" : 1606221359381,
+    "duration" : 7712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1824f75df4ea00d",
+  "name" : "그룹 상세 페이지에서 [비활성] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606232053614,
+    "stop" : 1606232065589,
+    "duration" : 11975
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7bde581264847f8",
+  "name" : "그룹 상세 페이지에서 [그룹 사용자 삭제]버튼이 출력된다",
+  "time" : {
+    "start" : 1606232065590,
+    "stop" : 1606232084981,
+    "duration" : 19391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a9829d0769607c12",
+  "name" : "그룹 상세 페이지에서 [대기] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606232026144,
+    "stop" : 1606232044935,
+    "duration" : 18791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6972e49f792fd2e7",
+  "name" : "그룹 상세 페이지에서 [그룹 삭제]팝업으로 이동한다",
+  "time" : {
+    "start" : 1606232160405,
+    "stop" : 1606232172944,
+    "duration" : 12539
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7152df6ceb701bb8",
+  "name" : "사용자 상세 페이지에서 [생성한 그룹]의 사용자 목록으로 이동한다",
+  "time" : {
+    "start" : 1606229686273,
+    "stop" : 1606229695930,
+    "duration" : 9657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8b4cf6bfee6df73",
+  "name" : "[사용자 삭제]팝업에서 주사용자를 [삭제] 시도도한",
+  "time" : {
+    "start" : 1606229077854,
+    "stop" : 1606229087633,
+    "duration" : 9779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cc48dcde2e10272",
+  "name" : "사용자 상세 페이지에서 사용자의 [아이디]를 확인한다",
+  "time" : {
+    "start" : 1606229542944,
+    "stop" : 1606229551466,
+    "duration" : 8522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a385faf952e9fcc7",
+  "name" : "사용자 상세 페이지에서 [이름]을 입력하지 않고 [저장]을 시도한다",
+  "time" : {
+    "start" : 1606229509303,
+    "stop" : 1606229518157,
+    "duration" : 8854
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cb72eaaaa18833f2",
+  "name" : "사용자 상세 페이지에서 [비활성] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606229396942,
+    "stop" : 1606229405691,
+    "duration" : 8749
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6e18211e9280c4d",
+  "name" : "그룹 목록 페이지에서 [유효하지 않은 텍스트]를 입력하고 [검색]한다",
+  "time" : {
+    "start" : 1606223165657,
+    "stop" : 1606223173517,
+    "duration" : 7860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4578758b7155f6c8",
+  "name" : "그룹 목록 페이지에서 그룹의 [이름]을 확인한다",
+  "time" : {
+    "start" : 1606223189461,
+    "stop" : 1606223197399,
+    "duration" : 7938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c4dc940dfd1f940",
+  "name" : "[사용자 추가]팝업에서 성을 입력하지 않고 사용자 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220741268,
+    "stop" : 1606220749576,
+    "duration" : 8308
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc99d52de615900e",
+  "name" : "[그룹 사용자 추가]팝업에서 검색한 사용자를 여러명 [체크]한다",
+  "time" : {
+    "start" : 1606231872209,
+    "stop" : 1606231897292,
+    "duration" : 25083
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6df8899e20de34",
+  "name" : "사용자 상세 페이지에서 사용자 [이름]을 확인한다",
+  "time" : {
+    "start" : 1606229495526,
+    "stop" : 1606229509302,
+    "duration" : 13776
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "445697602cd534d5",
+  "name" : "[사용자 추가]팝업에서 프로필 이미지을 업로드하고 [삭제]한다",
+  "time" : {
+    "start" : 1606220732601,
+    "stop" : 1606220741265,
+    "duration" : 8664
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40e570da6222b4c9",
+  "name" : "사용자 목록 페이지에서 [이름]을 부분 입력하고 [검색]한다",
+  "time" : {
+    "start" : 1606221079977,
+    "stop" : 1606221087926,
+    "duration" : 7949
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34cf64508b3471a1",
+  "name" : "그룹 목록 페이지에서 설명이 있는 그룹의 [사용자 수]를 확인한다",
+  "time" : {
+    "start" : 1606223223417,
+    "stop" : 1606223231534,
+    "duration" : 8117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bdd95c50c39e5df",
+  "name" : "사용자 상세 페이지에서 변경한 [이름]이 반영되었는지 화면을 새로고침하여 확인한다",
+  "time" : {
+    "start" : 1606229528112,
+    "stop" : 1606229542942,
+    "duration" : 14830
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "494fcec095d98044",
+  "name" : "[계정활성화 메일 재전송]팝업에서 계정활성화 메일 재전송을 [취소]한다",
+  "time" : {
+    "start" : 1606229119236,
+    "stop" : 1606229128688,
+    "duration" : 9452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99529f6cdd8b3090",
+  "name" : "[그룹 사용자 삭제]팝업에서 사용자를 [삭제]한다",
+  "time" : {
+    "start" : 1606232140670,
+    "stop" : 1606232160302,
+    "duration" : 19632
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65ff2b8b52662562",
+  "name" : "사용자 상세 페이지에서 2단계 설정 필요없고, 활성화 상태인 사용자의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229420571,
+    "stop" : 1606229429871,
+    "duration" : 9300
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27c18020eb4a2670",
+  "name" : "사용자 목록 페이지에서 [활성] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606221173199,
+    "stop" : 1606221183113,
+    "duration" : 9914
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9165a46d38fecd5e",
+  "name" : "생성한 그룹 상세 페이지에서 그룹의 [설명]을 확인한다",
+  "time" : {
+    "start" : 1606231604606,
+    "stop" : 1606231623306,
+    "duration" : 18700
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "312b1ae7defc90a1",
+  "name" : "사용자 목록 페이지에서 [사용자 추가]팝업을 취소한다",
+  "time" : {
+    "start" : 1606220847720,
+    "stop" : 1606220855928,
+    "duration" : 8208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3ccb2446781b0c5",
+  "name" : "[그룹 추가]팝업에서 아이디를 중복 입력하고 그룹 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606222892621,
+    "stop" : 1606222900789,
+    "duration" : 8168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e0440f8c72b55b2",
+  "name" : "사용자 상세 페이지에서 [부서]를 변경하고 [저장]한다",
+  "time" : {
+    "start" : 1606229587529,
+    "stop" : 1606229596439,
+    "duration" : 8910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28126f5c37e60182",
+  "name" : "그룹 목록 페이지에서 [그룹 이름]을 부분 입력하고 [검색]한다",
+  "time" : {
+    "start" : 1606223173519,
+    "stop" : 1606223181400,
+    "duration" : 7881
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a0f4e788ae0feb",
+  "name" : "사용자 상세 페이지에서 [성]을 변경하고 [저장]한다",
+  "time" : {
+    "start" : 1606229475699,
+    "stop" : 1606229485001,
+    "duration" : 9302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4210afef484a5e15",
+  "name" : "메가존 어드민 페이지에서 프로필 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606220544191,
+    "stop" : 1606220551999,
+    "duration" : 7808
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc243e035a1827d4",
+  "name" : "그룹 상세 페이지에서 [아이디]를 부분 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231690100,
+    "stop" : 1606231699600,
+    "duration" : 9500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7df44f4872b0f6c0",
+  "name" : "[그룹 삭제]팝업에서 그룹을 [삭제]한다",
+  "time" : {
+    "start" : 1606232196134,
+    "stop" : 1606232215899,
+    "duration" : 19765
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e0e4f82857f650",
+  "name" : "사용자 상세 페이지에서 [이름]을 변경하고 [저장]한다",
+  "time" : {
+    "start" : 1606229518158,
+    "stop" : 1606229528110,
+    "duration" : 9952
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bce52fd9045e5e0c",
+  "name" : "사용자 목록 페이지에서 [대기] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606221160012,
+    "stop" : 1606221173198,
+    "duration" : 13186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71ecd8ed49dd8d4",
+  "name" : "사용자 상세 페이지에서 프로필 이미지에 유효한 파일을 업로드 한다",
+  "time" : {
+    "start" : 1606229338791,
+    "stop" : 1606229347864,
+    "duration" : 9073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5331e9a2cf13e591",
+  "name" : "[사용자 추가]팝업에서 이름을 입력하지 않고 사용자 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220749578,
+    "stop" : 1606220758593,
+    "duration" : 9015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aba8ad08aae7379a",
+  "name" : "[그룹 사용자 추가]팝업에서 [이름]을 전체 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231814820,
+    "stop" : 1606231826809,
+    "duration" : 11989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d4989079822a9ab",
+  "name" : "생성한 그룹 상세 페이지에서 그룹의 [이름]을 변경하고 [저장]한다",
+  "time" : {
+    "start" : 1606231591485,
+    "stop" : 1606231604604,
+    "duration" : 13119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcd22d0b1d67d8b1",
+  "name" : "그룹 목록 페이지에서 그룹 목록 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606223157655,
+    "stop" : 1606223165656,
+    "duration" : 8001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32529fa1bbd37c8a",
+  "name" : "사용자 목록 페이지에서 [비활성] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606221183114,
+    "stop" : 1606221192750,
+    "duration" : 9636
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d90ff08259a79b3",
+  "name" : "그룹 상세 페이지에서 [유효하지 않은 텍스트]를 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231666263,
+    "stop" : 1606231676538,
+    "duration" : 10275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5023b122ce37046b",
+  "name" : "사용자 페이지에서 [아이디]를 전체 [검색]한다",
+  "time" : {
+    "start" : 1606221087927,
+    "stop" : 1606221102246,
+    "duration" : 14319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1efcfa1d846e517",
+  "name" : "사용자 상세 페이지에서 타이틀 [아이디]를 확인한다",
+  "time" : {
+    "start" : 1606229025220,
+    "stop" : 1606229035761,
+    "duration" : 10541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7880310d158b62bb",
+  "name" : "사용자 목록 페이지에서 사용자의 [이름]을 확인한다",
+  "time" : {
+    "start" : 1606221118007,
+    "stop" : 1606221127186,
+    "duration" : 9179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "740708fdcba4df2d",
+  "name" : "사용자 목록 페이지에서 [MFA 인증하고, 활성화 상태인 사용자]의 [2단계 인증 해제]한다",
+  "time" : {
+    "start" : 1606221319995,
+    "stop" : 1606221328590,
+    "duration" : 8595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf0a71788a5d5241",
+  "name" : "그룹 목록 페이지에서 [그룹 추가]팝업으로 이동한다",
+  "time" : {
+    "start" : 1606222866875,
+    "stop" : 1606222874706,
+    "duration" : 7831
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3439528d85def67",
+  "name" : "사용자 상세 페이지에서 [계정활성화 메일 재전송]팝업으로 이동한다",
+  "time" : {
+    "start" : 1606229096965,
+    "stop" : 1606229109677,
+    "duration" : 12712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e617701f24aa17d6",
+  "name" : "[그룹 사용자 추가]팝업에서 [이름]을 부분 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231795866,
+    "stop" : 1606231804944,
+    "duration" : 9078
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2dc8eb28c7a6e312",
+  "name" : "[그룹 삭제]팝업의 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606232172947,
+    "stop" : 1606232184116,
+    "duration" : 11169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a297800ae24ac64",
+  "name" : "[사용자 추가]팝업에서 아이디를 형식에 맞지 않게 입력한다",
+  "time" : {
+    "start" : 1606220772873,
+    "stop" : 1606220780933,
+    "duration" : 8060
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68c34dd712960b88",
+  "name" : "메가존 어드민 페이지로 이동한다",
+  "time" : {
+    "start" : 1606220537564,
+    "stop" : 1606220544188,
+    "duration" : 6624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a67146f80372175d",
+  "name" : "사용자 상세 페이지에서 대기 상태인 사용자의 삭제 팝업으로 이동한다",
+  "time" : {
+    "start" : 1606229044555,
+    "stop" : 1606229053333,
+    "duration" : 8778
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ade661d684496dc8",
+  "name" : "메가존 어드민 페이지에서 사용자 정의 필드 페이지로 이동한다",
+  "time" : {
+    "start" : 1606220579270,
+    "stop" : 1606220589292,
+    "duration" : 10022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a4a8ec1a331603c",
+  "name" : "생성한 그룹 상세 페이지에서 그룹의 [이름]을 중복 입력하고 [저장]을 시도한다",
+  "time" : {
+    "start" : 1606231580578,
+    "stop" : 1606231591483,
+    "duration" : 10905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4380d3ae3a824c62",
+  "name" : "[그룹 사용자 추가]팝업에서 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606231742087,
+    "stop" : 1606231756363,
+    "duration" : 14276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82e1d46485520acd",
+  "name" : "메가존 어드민 페이지에서 로그아웃한다",
+  "time" : {
+    "start" : 1606220552001,
+    "stop" : 1606220561435,
+    "duration" : 9434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa756a4a7ad5f6cd",
+  "name" : "사용자 목록 페이지에서 [대기] 상태인 사용자의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606221192752,
+    "stop" : 1606221202059,
+    "duration" : 9307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e9ab5accae3b9af",
+  "name" : "그룹 목록 페이지에서 설명이 있는 그룹의 [설명]을 확인한다",
+  "time" : {
+    "start" : 1606223215530,
+    "stop" : 1606223223415,
+    "duration" : 7885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b4a3c0ed4a27930",
+  "name" : "사용자 목록 페이지에서 2단계 인증 해제 팝업으로 이동한다",
+  "time" : {
+    "start" : 1606221289115,
+    "stop" : 1606221298110,
+    "duration" : 8995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "efba5169168dde60",
+  "name" : "사용자 목록 페이지에서 [2단계 설정 필요없고, 활성]상태인 사용자의 [더보기]메뉴를 확인한다",
+  "time" : {
+    "start" : 1606221208350,
+    "stop" : 1606221216700,
+    "duration" : 8350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e7e15a06d87da91",
+  "name" : "[사용자 추가]팝업에서 프로필 이미지 변경 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606220708747,
+    "stop" : 1606220717425,
+    "duration" : 8678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8702786dc4bb51",
+  "name" : "사용자 상세 페이지에서 [생성한 그룹]을 확인한다",
+  "time" : {
+    "start" : 1606229669917,
+    "stop" : 1606229680008,
+    "duration" : 10091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45288e53c564b0ec",
+  "name" : "[사용자 삭제]팝업에서 사용자를 [삭제]한다",
+  "time" : {
+    "start" : 1606229087635,
+    "stop" : 1606229096963,
+    "duration" : 9328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a61446c9d8c94d66",
+  "name" : "사용자 목록 페이지에서 계정활성화 메일 재전송 팝업의 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606221257730,
+    "stop" : 1606221266569,
+    "duration" : 8839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "524be2ca7354cd49",
+  "name" : "[그룹 사용자 추가]팝업에서 선택한 사용자를 [삭제]한다",
+  "time" : {
+    "start" : 1606231906723,
+    "stop" : 1606231918248,
+    "duration" : 11525
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "105d041a662fe10c",
+  "name" : "사용자 상세 페이지에서 비활성 상태인 사용자를 [활성]상태로 변경한다",
+  "time" : {
+    "start" : 1606229429872,
+    "stop" : 1606229441353,
+    "duration" : 11481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cea2290b22f2b6f1",
+  "name" : "사용자 목록 페이지에서 [숫자]로 페이지를 이동한다",
+  "time" : {
+    "start" : 1606221389937,
+    "stop" : 1606221398835,
+    "duration" : 8898
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8a975c919909b65",
+  "name" : "사용자 상세 페이지에서 [Breadcrumb]을 확인한다",
+  "time" : {
+    "start" : 1606229016774,
+    "stop" : 1606229025219,
+    "duration" : 8445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b1e91acc50a4f6c",
+  "name" : "사용자 상세 페이지에서 [기본 그룹]의 사용자 목록으로 이동한다",
+  "time" : {
+    "start" : 1606229658997,
+    "stop" : 1606229669915,
+    "duration" : 10918
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf7b1abcf763bb6b",
+  "name" : "사용자 목록 페이지에서 2단계 인증 해제 팝업의 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606221298112,
+    "stop" : 1606221311359,
+    "duration" : 13247
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4dc2df40dfafc38",
+  "name" : "생성한 그룹 상세 페이지에서 기본 그룹의 [이름]을 확인한다",
+  "time" : {
+    "start" : 1606231554606,
+    "stop" : 1606231569280,
+    "duration" : 14674
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de27d53a054577c8",
+  "name" : "[사용자 추가]팝업에서 아이디를 중복 입력하고 사용자 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220798085,
+    "stop" : 1606220807469,
+    "duration" : 9384
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6232c3d987bf6b68",
+  "name" : "그룹 상세 페이지에서 [그룹 사용자 삭제]팝업으로 이동한다",
+  "time" : {
+    "start" : 1606232085087,
+    "stop" : 1606232103385,
+    "duration" : 18298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d73cf35cbeccee1",
+  "name" : "[사용자 추가]팝업에서 프로필 이미지에 [유효하지 않은 확장자의 파일]을 업로드 시도한다",
+  "time" : {
+    "start" : 1606220687892,
+    "stop" : 1606220700284,
+    "duration" : 12392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbebe51e9055fd96",
+  "name" : "그룹 상세 페이지에서 [이름]을 전체 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231699602,
+    "stop" : 1606231710119,
+    "duration" : 10517
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5d0a6f018274e41",
+  "name" : "그룹 상세 페이지에로 이동한다",
+  "time" : {
+    "start" : 1606231478292,
+    "stop" : 1606231486793,
+    "duration" : 8501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edeb01033288ea46",
+  "name" : "그룹 상세 페이지에서 프로필 이미지를 미등록한 사용자의 프로필 이미지를 확인한다",
+  "time" : {
+    "start" : 1606231767334,
+    "stop" : 1606231779013,
+    "duration" : 11679
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d24c5b49b6839461",
+  "name" : "[그룹 추가]팝업에서 [그룹 이름/설명]을 모두 입력하고 그룹을 [추가]한다",
+  "time" : {
+    "start" : 1606222910224,
+    "stop" : 1606222928043,
+    "duration" : 17819
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cb231d980609e25",
+  "name" : "사용자 상세 페이지에서 사용자 [부서]를 확인한다",
+  "time" : {
+    "start" : 1606229551467,
+    "stop" : 1606229561412,
+    "duration" : 9945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f970cd935ed803e7",
+  "name" : "사용자 상세 페이지에서 프로필 이미지 변경 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229311305,
+    "stop" : 1606229338790,
+    "duration" : 27485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1af555a566972a0b",
+  "name" : "생성한 그룹 상세 페이지에서 그룹의 [설명]을 변경하고 [저장]한다",
+  "time" : {
+    "start" : 1606231645482,
+    "stop" : 1606231666261,
+    "duration" : 20779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aede83a08569574f",
+  "name" : "사용자 페이지에서 [로그인 이력있는 사용자]의 [최근 로그인 날짜]를 확인한다",
+  "time" : {
+    "start" : 1606221151596,
+    "stop" : 1606221160010,
+    "duration" : 8414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b7348087f923d6e",
+  "name" : "사용자 상세 페이지에서 사용자의 [전화번호]를 확인한다",
+  "time" : {
+    "start" : 1606229596440,
+    "stop" : 1606229609896,
+    "duration" : 13456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aec72cdd744a6bbd",
+  "name" : "[사용자 삭제]팝업에서 사용자 삭제를 [취소]한다",
+  "time" : {
+    "start" : 1606229062919,
+    "stop" : 1606229077852,
+    "duration" : 14933
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "faac121d1285589e",
+  "name" : "사용자 상세 페이지에서 2단계 인증 해제 팝업의 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606229178945,
+    "stop" : 1606229187845,
+    "duration" : 8900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7df63ef83bca6cc8",
+  "name" : "사용자 목록 페이지에서 [사용자 추가]팝업으로 이동한다",
+  "time" : {
+    "start" : 1606220672583,
+    "stop" : 1606220680232,
+    "duration" : 7649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81a005e17c2c77b0",
+  "name" : "사용자 목록 페이지에서 [2단계 설정 필요없고, 비활성]상태인 사용자의 [더보기]메뉴를 확인한다",
+  "time" : {
+    "start" : 1606221216702,
+    "stop" : 1606221225746,
+    "duration" : 9044
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d37bad941a61bc0",
+  "name" : "그룹 상세 페이지에서 [이름]을 부분 입력하고 사용자를 [검색]한다",
+  "time" : {
+    "start" : 1606231676541,
+    "stop" : 1606231689996,
+    "duration" : 13455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "723b21ca528a6f60",
+  "name" : "[그룹 삭제]팝업에서 그룹 삭제를 [취소]한다",
+  "time" : {
+    "start" : 1606232184119,
+    "stop" : 1606232196131,
+    "duration" : 12012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db9c98404b26e38f",
+  "name" : "사용자 상세 페이지에서 [활성] 상태인 사용자를 [비활성]으로 변경을 시도한다",
+  "time" : {
+    "start" : 1606229411927,
+    "stop" : 1606229420569,
+    "duration" : 8642
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e97c790e6840a3d",
+  "name" : "사용자 상세 페이지에서 [주소유자]인 사용자의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229238289,
+    "stop" : 1606229251448,
+    "duration" : 13159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c514ea56ffd3655",
+  "name" : "사용자 상세 페이지에서 변경한 [성]이 반영되었는지 화면을 새로고침하여 확인한다",
+  "time" : {
+    "start" : 1606229485002,
+    "stop" : 1606229495524,
+    "duration" : 10522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3df967b98dabe9b6",
+  "name" : "[그룹 추가]팝업에서 [그룹 설명]을 입력하지 않고 그룹을 [추가]한다",
+  "time" : {
+    "start" : 1606222900791,
+    "stop" : 1606222910222,
+    "duration" : 9431
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26f1ea3fb10644b0",
+  "name" : "사용자 상세 페이지에서 [대기] 상태인 사용자의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229035763,
+    "stop" : 1606229044554,
+    "duration" : 8791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1fc0331c9f931eb3",
+  "name" : "그룹 상세 페이지에서 사용자의 [이름]을 확인한다",
+  "time" : {
+    "start" : 1606231994193,
+    "stop" : 1606232002377,
+    "duration" : 8184
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "547d8f1c670442e6",
+  "name" : "그룹 목록 페이지에서 [그룹 이름]을 전체 [검색]한다",
+  "time" : {
+    "start" : 1606223181401,
+    "stop" : 1606223189460,
+    "duration" : 8059
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d5c604e3d6cff3c",
+  "name" : "메가존 어드민 페이지에서 그룹 페이지로 이동한다",
+  "time" : {
+    "start" : 1606220571167,
+    "stop" : 1606220579268,
+    "duration" : 8101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36301aa894d78424",
+  "name" : "사용자 상세 페이지에서 MFA 인증하고, 비활성화 상태인 사용자의 더보기 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229229299,
+    "stop" : 1606229238288,
+    "duration" : 8989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d44f884d262c3eb4",
+  "name" : "[사용자 추가]팝업에서 출력요소를 확인한다",
+  "time" : {
+    "start" : 1606220680234,
+    "stop" : 1606220687890,
+    "duration" : 7656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7137db89b450d727",
+  "name" : "사용자 상세 페이지에서 변경한 [전화번호]가 반영되었는지 화면을 새로고침하여 확인한다",
+  "time" : {
+    "start" : 1606229632015,
+    "stop" : 1606229648515,
+    "duration" : 16500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "312946e88eb0f45",
+  "name" : "사용자 상세 페이지에서 [2단계 설정 필요없고, 활성]상태인 사용자의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229145662,
+    "stop" : 1606229154460,
+    "duration" : 8798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db799056bd71669c",
+  "name" : "사용자 상세 페이지에서 [전화번호]를 입력하지 않고 [저장]을 시도한다",
+  "time" : {
+    "start" : 1606229609898,
+    "stop" : 1606229619639,
+    "duration" : 9741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65c6ebefc2b237f2",
+  "name" : "사용자 목록 페이지에서 프로필 이미지를 등록한 사용자의 프로필 이미지를 확인한다",
+  "time" : {
+    "start" : 1606221110149,
+    "stop" : 1606221118005,
+    "duration" : 7856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80bfdaca3b8f7ef4",
+  "name" : "사용자 상세 페이지에서 프로필 이미지를 삭제한다",
+  "time" : {
+    "start" : 1606229347866,
+    "stop" : 1606229367356,
+    "duration" : 19490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22ed084c25fd0a68",
+  "name" : "사용자 목록 페이지에서 사용자의 [아이디]를 확인한다",
+  "time" : {
+    "start" : 1606221127188,
+    "stop" : 1606221142297,
+    "duration" : 15109
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21ceb3de642c090b",
+  "name" : "생성한 그룹 상세 페이지에서 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606231535396,
+    "stop" : 1606231545226,
+    "duration" : 9830
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c00b26920a6f739c",
+  "name" : "사용자 상세 페이지에서 주소유자의 상태를 비활성화하지 못한다",
+  "time" : {
+    "start" : 1606229441355,
+    "stop" : 1606229450614,
+    "duration" : 9259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "130d71f88de386f8",
+  "name" : "[사용자 추가]팝업에서 부서를 입력하지 않고 사용자2 [추가]를 시도한다",
+  "time" : {
+    "start" : 1606220807472,
+    "stop" : 1606220821459,
+    "duration" : 13987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b521b4854a60a87",
+  "name" : "사용자 상세 페이지에서 사용자의 [성]을 확인한다",
+  "time" : {
+    "start" : 1606229450617,
+    "stop" : 1606229460313,
+    "duration" : 9696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98b4deaf4bf7ad79",
+  "name" : "그룹 상세 페이지에서 [활성] 상태인 사용자의 [상태]를 확인한다",
+  "time" : {
+    "start" : 1606232044937,
+    "stop" : 1606232053612,
+    "duration" : 8675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9282bf15a7c441d",
+  "name" : "그룹 상세 페이지에서 그룹 [타이틀]을 확인한다",
+  "time" : {
+    "start" : 1606231513070,
+    "stop" : 1606231527414,
+    "duration" : 14344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4d281ee560c823",
+  "name" : "생성한 그룹 상세 페이지에서 그룹의 [이름]을 입력하지 않고 [저장]을 시도한다",
+  "time" : {
+    "start" : 1606231569282,
+    "stop" : 1606231580474,
+    "duration" : 11192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "539c685fb86cb352",
+  "name" : "생성한 그룹 상세 페이지에서 [그룹 사용자 추가]팝업으로 이동한다",
+  "time" : {
+    "start" : 1606231733565,
+    "stop" : 1606231742084,
+    "duration" : 8519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3a266b00ec6e30d",
+  "name" : "사용자 목록 페이지에서 [MFA 인증하고, 비활성화 상태인 사용자]의 [더보기]메뉴를 확인한다",
+  "time" : {
+    "start" : 1606221225748,
+    "stop" : 1606221233898,
+    "duration" : 8150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d44f3ee25715aed9",
+  "name" : "사용자 상세 페이지에서 [2단계 설정 필요없고, 비활성화 상태인 사용자]의 [더보기] 메뉴를 확인한다",
+  "time" : {
+    "start" : 1606229220492,
+    "stop" : 1606229229297,
+    "duration" : 8805
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d0dd3bb361be836",
+  "name" : "그룹 상세 페이지에서 프로필 이미지를 등록한 사용자의 프로필 이미지를 확인한다",
+  "time" : {
+    "start" : 1606231984796,
+    "stop" : 1606231994191,
+    "duration" : 9395
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
